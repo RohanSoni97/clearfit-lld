@@ -1,0 +1,10 @@
+# macOS archive metadata
+__MACOSX/
+.DS_Store
+._*
+
+# Java build output
+*.class
+out/
+build/
+target/
